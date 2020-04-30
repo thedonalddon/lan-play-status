@@ -230,4 +230,11 @@
     "platform": "switch",
     "type": "dotnet"
   }
+  {
+    "ip": "tr.z5z.info",
+    "port": 11452,
+    "flag": "hk",
+    "platform": "switch",
+    "type": "dotnet"
+  }
 ]
