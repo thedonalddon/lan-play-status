@@ -232,7 +232,7 @@
   }
   {
     "ip": "tr.z5z.info",
-    "port": 11452,
+    "port": 11451,
     "flag": "hk",
     "platform": "switch",
     "type": "dotnet"
